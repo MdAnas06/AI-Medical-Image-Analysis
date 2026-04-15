@@ -1,8 +1,8 @@
 flask
 gunicorn
-numpy
+numpy==1.23.5
 opencv-python-headless
-tensorflow-cpu
 matplotlib
 scikit-learn
 seaborn
+tensorflow==2.10.0
